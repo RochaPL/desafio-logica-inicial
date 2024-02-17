@@ -1,5 +1,5 @@
 let nome = "Apolo, The cat";
-let nivel = 10001;
+let nivel = 100000;
 let contadorLinha = 0;
 let rank = [
     ["Ferro", 0, 1000],
